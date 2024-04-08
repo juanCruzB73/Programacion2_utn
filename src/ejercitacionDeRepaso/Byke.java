@@ -1,6 +1,4 @@
-package tp1;
-
-import java.awt.image.ColorConvertOp;
+package ejercitacionDeRepaso;
 
 public class Byke extends  Vehicle{
 

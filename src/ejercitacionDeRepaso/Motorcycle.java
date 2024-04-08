@@ -1,16 +1,15 @@
-package tp1;
+package ejercitacionDeRepaso;
 
-public class Car extends Vehicle{
+public class Motorcycle extends Byke{
     private double speed;
     private double displacement;
-    public Car(){
-
-    }
-    public Car(String color,int wheels,double speed,double displacement){
-        super(color,wheels);
+    public Motorcycle(){}
+    public Motorcycle(String color,int wheels,String type,double speed,double displacement){
+        super(color,wheels,type);
         this.speed=speed;
         this.displacement=displacement;
     }
+
     public void setDisplacement(double displacement) {
         this.displacement = displacement;
     }

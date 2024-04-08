@@ -1,4 +1,4 @@
-package tp1;
+package ejercitacionDeRepaso;
 
 public class Bird extends Animal{
     private String species;

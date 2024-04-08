@@ -1,7 +1,5 @@
-package tp1;
+package ejercitacionDeRepaso;
 import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Optional;
 
 public class Main {
     public static void main(String[] args) {

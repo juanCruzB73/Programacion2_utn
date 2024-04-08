@@ -1,4 +1,4 @@
-package tp1;
+package ejercitacionDeRepaso;
 
 public class Truck extends Car{
     double loan;
