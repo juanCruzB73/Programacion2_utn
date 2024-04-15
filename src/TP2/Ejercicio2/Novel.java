@@ -1,6 +1,8 @@
-package TP2;
+package TP2.Ejercicio2;
 
-public class Novel extends Book{
+import TP2.Ejercicio2.Book;
+
+public class Novel extends Book {
     private String genre;
     public Novel(String tittle,String author,int realeaseDate,String genre){
         super(tittle,author,realeaseDate);

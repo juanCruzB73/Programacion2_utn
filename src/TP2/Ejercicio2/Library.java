@@ -1,4 +1,6 @@
-package TP2;
+package TP2.Ejercicio2;
+import TP2.Ejercicio2.Book;
+
 import java.util.ArrayList;
 
 public class Library{

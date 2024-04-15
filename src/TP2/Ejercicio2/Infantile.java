@@ -1,6 +1,8 @@
-package TP2;
+package TP2.Ejercicio2;
 
-public class Infantile extends Book{
+import TP2.Ejercicio2.Book;
+
+public class Infantile extends Book {
     private int ageRange;
     public Infantile(String tittle,String author,int realeaseDate,int ageRange){
         super(tittle,author,realeaseDate);

@@ -1,6 +1,8 @@
-package TP2;
+package TP2.Ejercicio2;
 
-public class Book implements Borrowable{
+import TP2.Ejercicio2.Borrowable;
+
+public class Book implements Borrowable {
     private String tittle,author;
     private int realeaseDate;
     private boolean borrowed=false;

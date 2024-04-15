@@ -1,7 +1,4 @@
-package TP2;
-
-import TP1.Ejercicio10.Libro;
-import TP1.Ejercicio10.Novela;
+package TP2.Ejercicio2;
 
 public class Main {
     /*
