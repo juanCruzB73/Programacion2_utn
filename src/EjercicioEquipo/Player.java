@@ -22,4 +22,7 @@ public class Player {
     public String getPosition() {
         return position;
     }
+    public String toString(){
+        return "nombre: "+name+" camiseta: "+nroJersy+" posicion: "+position;
+    }
 }
