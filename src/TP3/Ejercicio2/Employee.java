@@ -1,4 +1,4 @@
-package TP3.Ejercicicio2;
+package TP3.Ejercicio2;
 
 public class Employee {
     private String name;
